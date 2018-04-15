@@ -1,2 +1,3 @@
 # hello-world
-Ideas and scratches
+
+Hi humans, how you doing?
